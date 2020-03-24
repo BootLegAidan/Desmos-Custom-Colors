@@ -3,6 +3,4 @@ To use it, you need a script injector, then copy and paste [This Link](https://r
 
 Then open the Developer Console and type ```color("[Hex Code]", [Equation Number])``` ![Equation Number](https://i.ibb.co/0XJRVJD/screenshot-www-desmos-com-2020-03-24-18-25-05.jpg)
 
-Example:
-
-```color("#ffc0cb", 1)``` would give you ![Result]()
+Example: ```color("#ffc0cb", 1)``` would give you ![Result](https://i.ibb.co/CVmGFsw/screenshot-www-desmos-com-2020-03-24-18-41-53.png)
